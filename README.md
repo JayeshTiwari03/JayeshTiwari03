@@ -12,3 +12,5 @@
 My Featured Repositories :pager:	: 
 [Cards App](https://github.com/JayeshTiwari03/Sep-Cards-App) | 
 [Bhiyaoo App](https://github.com/JayeshTiwari03/Sep-Venue-App)
+
+![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayeshtiwari03)
