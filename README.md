@@ -1,11 +1,11 @@
 ### Hi there 👋
 # Welcome to my profile 🙌
 
-#### 🔭 I’m currently working on JavaScript & React 🌟
-#### 🌱 I’m always learning something new ✔
-#### 👯 I’m looking to collaborate on Apps 🎉
-#### 🤔 I’m looking for help Mobile Apps 🐱‍👤
-#### 📫 How to reach me: send me a tweet 📱
+#### 🔭 currently working on JavaScript & React 🌟
+#### 🌱 always learning something new ✔
+#### 👯 looking to collaborate on Apps 🎉
+#### 🤔 looking for help with Gatsby 🐱‍👤
+#### 📫 How to reach me? send me a tweet 📱
 
 ### Stay Connected 😉
 
