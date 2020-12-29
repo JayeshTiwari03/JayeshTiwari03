@@ -9,7 +9,6 @@
 #### 🌱 always learning something new ✔
 #### 👯 looking to collaborate on Apps 🎉
 #### 🤔 looking to have a coffee ☕
-#### 📫 How to reach me? DM on [Twitter](https://twitter.com/jayeshomg) 📱
 
 ### Stay Connected 😉
 
