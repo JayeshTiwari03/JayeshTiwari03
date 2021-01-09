@@ -2,7 +2,7 @@
 # Welcome to my profile 🙌
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   ❞</i>
+<i>❝“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🔭 currently working on React 🌟
