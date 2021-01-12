@@ -2,7 +2,7 @@
 # Welcome to my profile 🙌
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Web Services are like teenage sex.  Everyone is talking about doing it, and those who are actually doing it are doing it badly.”— Michelle Bustamante   ❞</i>
+<i>❝A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🔭 currently working on React 🌟
