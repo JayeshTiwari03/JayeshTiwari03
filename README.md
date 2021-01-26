@@ -2,7 +2,7 @@
 # Welcome to my profile 🙌
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael   ❞</i>
+<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🔭 currently working on React 🌟
