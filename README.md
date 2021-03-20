@@ -5,7 +5,6 @@
 <i>❝The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-#### 🔭 currently working on React 🌟
 #### 🌱 always learning something new ✔
 #### 👯 looking to collaborate on Apps 🎉
 #### 🤔 looking to have a coffee ☕
