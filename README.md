@@ -6,8 +6,6 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
-#### 👯 looking to collaborate on Apps 🎉
-#### 🤔 looking to have a coffee ☕
 
 ### Stay Connected 😉
 
