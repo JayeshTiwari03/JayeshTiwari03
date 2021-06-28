@@ -1,7 +1,7 @@
 ### Hi there, G'Day 👋
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The computer in your cell phone today is million times cheaper and a thousands times more powerful and about a hundred thousands times smaller than the one computer at MIT in 1965.❞</i>
+<i>❝“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
