@@ -1,7 +1,7 @@
 ### Hi there, G'Day 👋
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
+<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
