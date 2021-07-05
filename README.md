@@ -1,7 +1,7 @@
 ### Hi there, G'Day 👋
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
+<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
