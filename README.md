@@ -1,7 +1,7 @@
 ### Hi there, G'Day 👋
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
+<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
