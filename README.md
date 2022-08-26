@@ -1,4 +1,8 @@
-### Hi there, G'Day 👋
+### Hi there, 👋
+
+_Thanks for stopping by through my profile._
+
+### Currently developing an advisory product. Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/)
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
