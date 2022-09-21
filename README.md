@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 ### Currently developing an advisory product. Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
+<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
