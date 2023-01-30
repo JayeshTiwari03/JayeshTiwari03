@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
+<i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
