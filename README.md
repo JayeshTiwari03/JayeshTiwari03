@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   ❞</i>
+<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
