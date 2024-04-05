@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
+<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
