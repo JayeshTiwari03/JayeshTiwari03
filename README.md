@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
+<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
