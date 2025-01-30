@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 <!-- ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/) -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
+<i>❝“Being able to break security doesn’t make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.”— Eric Raymond   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
