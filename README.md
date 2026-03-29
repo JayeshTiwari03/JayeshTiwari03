@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 <!-- ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/) -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.❞</i>
+<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
