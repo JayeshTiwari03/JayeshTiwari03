@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 <!-- ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/) -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
+<i>❝“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
