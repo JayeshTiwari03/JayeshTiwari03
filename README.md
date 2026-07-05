@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 <!-- ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/) -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
+<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
