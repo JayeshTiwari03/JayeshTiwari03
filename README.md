@@ -5,7 +5,7 @@ _Thanks for stopping by through my profile._
 <!-- ### Find me updating new posts on this site here [Bloggist Blog](https://bloggistblogdevelop.gtsb.io/) -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Well, there are two games that were the first ever made in the US called Asteroids and Lunar Lander in 1980.❞</i>
+<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 #### 🌱 always learning something new ✔
